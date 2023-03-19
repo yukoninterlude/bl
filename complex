@@ -43,7 +43,7 @@ AimAssist = {
       ThirdPerson = true,
       FirstPerson = true,
       Predict = true,
-      Prediction = 0.236,
+      Prediction = 0,
       Smooth = true,
       SmoothValue = 1.0,
       AirShot_SmoothValue = 1.0,
@@ -60,7 +60,7 @@ AimAssist = {
       },
   },
   Shake = {
-      Enabled = true,
+      Enabled = false,
       X = 5,
       Y = 5,
       Z = 5,
