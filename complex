@@ -30,7 +30,7 @@ getgenv().Shhhh = {
       Prediction = 0.135,
       HitChance = 300,
       AirShot_HitChance = 300,
-      HitParts = 'HumanoidRootPart',
+      HitParts = 'Head',
       NearestCursorHitpart = true,
       HitPart_Mode = "Nearest Point", -- "Nearest Part", "Nearest Point"
   },
@@ -47,7 +47,7 @@ AimAssist = {
       Smooth = true,
       SmoothValue = 1.0,
       AirShot_SmoothValue = 1.0,
-      HitPart = "HumanoidRootPart",
+      HitPart = "Head",
       Use_AirShotHitPart = false,
       AirShotHitPart = "Head",
       NearestCursorHitpart = true,
