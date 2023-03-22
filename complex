@@ -1,6 +1,6 @@
 getgenv().Shhhh = {
   Options = {
-      Key = "keyhereyoumonkey", -- // replace with ur key ofc
+      Key = "dJPhrQDOTjbiyWcTbNFEGaUbeUspolcm", -- // replace with ur key ofc
       Version = "Latest", -- // "Latest" for latest version
       Intro = false, -- // starts a small intro
   },
